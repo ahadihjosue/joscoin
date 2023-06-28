@@ -4,7 +4,7 @@
  <br />Icon by Good Ware
 </p>
 
-<h2 align="center">Joscoin</h2>
+<h1 align="center">Joscoin</h1>
 
 ---
 
