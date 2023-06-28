@@ -1,10 +1,10 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="assets/blockchain.png" alt="Project logo"></a>
+ <img width=50% height=50% src="assets/blockchain.png" alt="Project logo"></a>
  <br />Icon by Good Ware
 </p>
 
-<h3 align="center">Joscoin</h3>
+<h2 align="center">Joscoin</h2>
 
 ---
 
