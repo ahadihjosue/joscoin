@@ -1,7 +1,7 @@
 <p align="center">
   <a href="" rel="noopener">
     <img style="width: 80%; height: 80%;" src="assets/blockchain.png" alt="Project logo">
-    <div style="text-size: 10px; text-transform: italic;">Icon by Good Ware</div>
+    <br/><span style="text-size: 9px; text-style: italic;">Icon by Good Ware</span>
   </a>
 </p>
 
