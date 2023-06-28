@@ -1,7 +1,7 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="assets/blockchain.png" alt="Project logo"></a>
- Icon by Good Ware
+ <img src="assets/blockchain.png" alt="Project logo"></a>
+ <br />Icon by Good Ware
 </p>
 
 <h3 align="center">Joscoin</h3>
